@@ -1,2 +1,2 @@
 # CGPA_Java
-Cumulative GPA Calculator for the University of Waterloo
+Cumulative GPA Calculator for University of Waterloo Students
